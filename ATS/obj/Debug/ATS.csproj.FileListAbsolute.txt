@@ -1,0 +1,10 @@
+c:\users\макс\source\repos\ATS\ATS\bin\Debug\ATS.exe.config
+c:\users\макс\source\repos\ATS\ATS\bin\Debug\ATS.exe
+c:\users\макс\source\repos\ATS\ATS\bin\Debug\ATS.pdb
+c:\users\макс\source\repos\ATS\ATS\obj\Debug\ATS.csprojResolveAssemblyReference.cache
+c:\users\макс\source\repos\ATS\ATS\obj\Debug\ATS.Form1.resources
+c:\users\макс\source\repos\ATS\ATS\obj\Debug\ATS.Properties.Resources.resources
+c:\users\макс\source\repos\ATS\ATS\obj\Debug\ATS.csproj.GenerateResource.Cache
+c:\users\макс\source\repos\ATS\ATS\obj\Debug\ATS.csproj.CoreCompileInputs.cache
+c:\users\макс\source\repos\ATS\ATS\obj\Debug\ATS.exe
+c:\users\макс\source\repos\ATS\ATS\obj\Debug\ATS.pdb
